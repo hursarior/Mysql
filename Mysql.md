@@ -117,3 +117,7 @@ El resultado de la consulta será:
 
 
 En este ejemplo, hemos utilizado la cláusula GROUP BY para agrupar los clientes por país y la función de agregación COUNT(*) para contar el número de clientes en cada grupo de país. Así, podemos obtener una visión resumida de cuántos clientes hay en cada país.
+
+## Uso
+insert into (orden en el que se insertara, con las variable) values (los valores, en el mismo orden de las variable entre parentesis).
+
